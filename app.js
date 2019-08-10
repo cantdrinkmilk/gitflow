@@ -7,3 +7,4 @@ function newFunctionBranch(){
 }
 
 console.log("for sure");
+console.log("this is the new branch");
